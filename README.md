@@ -9,7 +9,7 @@
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 
--   [<img height="50" width="50" src="./images/CSDN.png" alt="">](https://github.com/jieke-11) CSDN个人播客，发表了 1 篇技术文章，3 阅读。
+-   [<img height="50" width="50" src="./images/CSDN.png" alt="">](https://blog.csdn.net/qq_65211495?type=blog) CSDN个人播客，发表了 1 篇技术文章，66 阅读。
 
 ### **技术栈:**
 
@@ -26,7 +26,7 @@
 
 ### 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=jieke-11&repo=jieke-11)](https://github.com/jieke-11)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=jieke-11&repo=Chenyi)](https://github.com/jieke-11/Chenyi)
 <br><br><br>
 
 ### Github 活跃度
