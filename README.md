@@ -30,7 +30,7 @@
 <br><br><br>
 
 ### Github 活跃度
-
+<!--![Dendoink's github stats](https://github-readme-stats.vercel.app/api?username=jieke-11&show_icons=true&theme=radical&count_private=true) -->
 [![](https://activity-graph.herokuapp.com/graph?username=jieke-11&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=jieke-11&show_icons=true&theme=vue)
 
