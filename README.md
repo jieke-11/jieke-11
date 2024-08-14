@@ -9,7 +9,7 @@
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 
--   <a href="https://github.com/jieke-11"><code><img height="20" width="50" src="./images/CSDN.png"></code></a>：CSDN个人播客，发表了 1 篇技术文章，3阅读。
+-   [<img height="50" width="50" src="./images/CSDN.png" alt="">](https://github.com/jieke-11) CSDN个人播客，发表了 1 篇技术文章，3 阅读。
 
 ### **技术栈:**
 
